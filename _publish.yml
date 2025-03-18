@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 4f178543-c284-40bc-afa1-363eb16578fe
+      url: 'https://agastyarao.netlify.app/'

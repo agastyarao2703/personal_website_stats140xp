@@ -9,8 +9,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal_website_stats140xp",
+    "title": "Agastya Rao",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Agastya is a 4th year student at UCLA pursuing a double-major in Statistics & Data Science and Economics. The prospect of working with people who are passionate about analyzing data, deriving actionable insights, and communicating those insights is exciting to him. He has lived in India, Vietnam, Hong Kong, and the United States throughout his life and in his free time, he enjoys running, hiking, meditating, playing badminton, biking, strength training, socializing and meeting new people!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Agastya Rao",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | B.S. in Statistics & Data Science, BA in Economics | Sept 2021 - June 2025"
+  },
+  {
+    "objectID": "index.html#cv",
+    "href": "index.html#cv",
+    "title": "Agastya Rao",
+    "section": "CV",
+    "text": "CV\nHere is my attached CV"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Agastya Rao",
+    "section": "Projects",
+    "text": "Projects\n\nAnalyzing Airfares\nLink to PDF Document\nThis project analyzes factors influencing airfare prices for flights departing from Los Angeles International Airport (LAX) using data from the 2018 Airplane Flights dataset. The study explores how variables such as distance traveled, airline company, number of tickets ordered, seasonality, and competition among airlines impact ticket prices. Key findings include a strong positive correlation between distance and price, lower prices for bulk ticket purchases, and higher fares for flights to hub airports dominated by a single airline. Statistical methods such as ANOVA, chi-square tests, and linear regression confirm significant differences in pricing across destinations. While the study provides insights into airfare pricing trends, factors like booking time, demand fluctuations, and fuel prices remain unexplored and could be investigated in future research.\n\n\nFactors Contributing to Happiness\nLink to PDF Document\nThis project analyzes factors influencing happiness using data from the 2019 World Happiness Report. Through multiple linear regression, the study identifies GDP per capita, social support, healthy life expectancy, and freedom to make life choices as the most significant predictors of happiness, while generosity and perceptions of corruption were found statistically insignificant. After data transformations and variable selection, a four-variable model was determined to be the best fit. The findings align with government policies aimed at improving well-being through economic growth, social welfare, healthcare, and civil liberties. However, cultural differences, time dependency, and subjectivity in measuring happiness limit the study’s generalizability.\n\n\nTime Series Analysis and Forecasting of GOOG and S&P 500\nLink to PDF Document\nThis project analyzes the historical price movements of Google (GOOG) and the S&P 500 ETF (SPY) to develop predictive models for financial markets. Using ARIMA and VAR models, the study assesses time-series forecasting accuracy and the relationship between individual stock performance and broader market trends. The ARIMA models effectively captured past price patterns, showing strong predictive power, while the VAR model identified a bidirectional Granger-causal relationship between Google and the S&P 500. However, ARIMA-based models performed better in forecasting accuracy (lower MAPE) than VAR. The study highlights how historical trends can predict future movements, but market shocks and external factors must be considered for real-world applications. Future research could expand on interdependencies between multiple tech stocks."
   }
 ]

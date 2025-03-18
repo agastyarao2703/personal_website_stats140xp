@@ -1,13 +1,18 @@
 project:
   type: website
+  resources: 
+    - Agastya_Rao_Resume (Data Science).pdf
+  
 
 website:
-  title: "personal_website_stats140xp"
+  title: "Agastya Rao"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+
+  page-footer:
+    right: "&copy; 2025, Agastya Rao"
 
 format:
   html:
@@ -16,6 +21,6 @@ format:
       - brand
     css: styles.css
     toc: true
-
+    
 
 
