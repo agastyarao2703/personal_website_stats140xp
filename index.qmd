@@ -7,9 +7,6 @@ about:
     - icon: github
       text: Github
       href: https://github.com/agastyarao2703
-    - text: Email 
-      url: "mailto:agastyarao2703@g.ucla.edu"
-      icon: inbox-fill 
     - text: CV
       url: "Agastya_Rao_Resume (Data Science).pdf"
 toc: false
